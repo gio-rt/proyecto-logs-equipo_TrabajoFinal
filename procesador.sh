@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Análisis de Logs: Extraer alertas
-echo "Iniciando procesamiento de logs..." 
+echo "Iniciando procesamiento de logs...." 
 
 
 echo "Extrayendo lineas con la palabra warning..."
